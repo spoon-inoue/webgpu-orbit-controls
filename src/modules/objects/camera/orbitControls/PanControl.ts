@@ -1,5 +1,5 @@
 import { vec2, vec3 } from 'wgpu-matrix'
-import { Camera, OrthographicCamera, PerspectiveCamera } from '../index'
+import { Camera, OrthographicCamera, PerspectiveCamera } from '../'
 import type { Pointer } from './OrbitControls'
 
 export class PanControl {

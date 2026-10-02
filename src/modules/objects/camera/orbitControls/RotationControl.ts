@@ -1,5 +1,5 @@
 import { quat, vec2 } from 'wgpu-matrix'
-import type { Camera } from '../index'
+import type { Camera } from '../'
 import type { Pointer } from './OrbitControls'
 
 export class RotationControl {
