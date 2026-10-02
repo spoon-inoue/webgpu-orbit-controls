@@ -1,0 +1,32 @@
+{
+  "name": "webgpu-orbit-controls",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/draco3dgltf": "^1.4.3",
+    "@types/node": "^26.6.2",
+    "@types/path-browserify": "^1.0.3",
+    "@vitejs/plugin-basic-ssl": "^2.3.0",
+    "@webgpu/types": "^0.1.74",
+    "prettier": "^3.9.9",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.0"
+  },
+  "dependencies": {
+    "@gltf-transform/core": "^4.5.0",
+    "@gltf-transform/extensions": "^4.5.0",
+    "@gltf-transform/functions": "^4.5.0",
+    "draco3dgltf": "^1.5.7",
+    "lil-gui": "^0.21.0",
+    "stats-gl": "^4.2.3",
+    "webgpu-utils": "^2.1.1",
+    "wgpu-matrix": "^3.4.2"
+  }
+}
