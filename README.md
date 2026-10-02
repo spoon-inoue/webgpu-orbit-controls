@@ -8,3 +8,4 @@ https://spoon-inoue.github.io/webgpu-particle-life/
 
 - [WebGPU Samples - Particle Life](https://webgpu.github.io/webgpu-samples/?sample=particleLife)
 - [The code behind Particle Life](https://youtu.be/scvuli-zcRc?si=cuobhCx5q1su0Cn-)
+"# webgpu-orbit-controls" 
